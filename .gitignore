@@ -13,3 +13,6 @@ frontend/build/
 *.iml
 .env
 .env.local
+
+.vercel
+.env*
